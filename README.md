@@ -17,7 +17,7 @@ Special requests
 and more.
 ## Files Included:
 
-hotel_bookings.csv: The main dataset containing hotel bookings information.
+hotel_bookings.xlsx: The main dataset containing hotel bookings information.
 README.md: This file providing an overview of the project.
 Jupyter Notebook files containing the code for data cleaning, analysis, and visualization:
 hotel_bookings_eda.ipynb: Notebook containing exploratory data analysis.
