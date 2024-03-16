@@ -15,20 +15,24 @@ Reservation status (e.g., booked, canceled)
 Room type
 Special requests
 and more.
-Files Included:
+## Files Included:
 
-# hotel_bookings.csv: The main dataset containing hotel bookings information.
+hotel_bookings.csv: The main dataset containing hotel bookings information.
 README.md: This file providing an overview of the project.
 Jupyter Notebook files containing the code for data cleaning, analysis, and visualization:
 hotel_bookings_eda.ipynb: Notebook containing exploratory data analysis.
 Additional notebooks if there are specific analyses or visualizations.
-## Project Structure:
+### Project Structure:
 
-# Data Cleaning: Preprocessing steps to clean and prepare the data for analysis. This may include handling missing values, removing duplicates, and data type conversions.
+# Data Cleaning: 
+Preprocessing steps to clean and prepare the data for analysis. This may include handling missing values, removing duplicates, and data type conversions.
 Exploratory Data Analysis (EDA): Analysis of various attributes in the dataset to uncover insights and trends. This involves generating visualizations such as bar plots, histograms, scatter plots, etc., and performing statistical analysis.
-# Insights and Findings: Summarization of key findings and insights obtained from the analysis.
-# Conclusion: Concluding remarks and potential implications of the findings for the hotel business.
-# Future Work: Suggestions for further analysis or improvements to the project.
+# Insights and Findings: 
+Summarization of key findings and insights obtained from the analysis.
+# Conclusion:
+Concluding remarks and potential implications of the findings for the hotel business.
+# Future Work: 
+Suggestions for further analysis or improvements to the project.
 ## Usage:
 
 Ensure you have the necessary dependencies installed (e.g., Python, pandas, matplotlib, seaborn).
