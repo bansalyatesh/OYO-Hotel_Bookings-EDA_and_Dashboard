@@ -22,22 +22,22 @@ README.md: This file providing an overview of the project.
 Jupyter Notebook files containing the code for data cleaning, analysis, and visualization:
 hotel_bookings_eda.ipynb: Notebook containing exploratory data analysis.
 Additional notebooks if there are specific analyses or visualizations.
-### Project Structure:
+# Project Structure:
 
-# Data Cleaning: 
+### Data Cleaning: 
 Preprocessing steps to clean and prepare the data for analysis. This may include handling missing values, removing duplicates, and data type conversions.
 Exploratory Data Analysis (EDA): Analysis of various attributes in the dataset to uncover insights and trends. This involves generating visualizations such as bar plots, histograms, scatter plots, etc., and performing statistical analysis.
-# Insights and Findings: 
+### Insights and Findings: 
 Summarization of key findings and insights obtained from the analysis.
-# Conclusion:
+### Conclusion:
 Concluding remarks and potential implications of the findings for the hotel business.
-# Future Work: 
+### Future Work: 
 Suggestions for further analysis or improvements to the project.
-## Usage:
+# Usage:
 
 Ensure you have the necessary dependencies installed (e.g., Python, pandas, matplotlib, seaborn).
 Download the hotel_bookings.csv file and place it in the same directory as the Jupyter Notebooks.
 Open the hotel_bookings_eda.ipynb notebook in Jupyter or any compatible environment.
 Follow the code and execute the cells to reproduce the analysis and visualizations.
-### Conclusion:
+# Conclusion:
 The Hotel Bookings EDA project aims to provide valuable insights into hotel booking patterns and customer behavior. By analyzing the dataset and understanding the factors influencing bookings and cancellations, stakeholders can make informed decisions to optimize operations and enhance customer satisfaction.
